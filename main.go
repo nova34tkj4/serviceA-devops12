@@ -6,7 +6,7 @@ import (
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
-    fmt.Fprintf(w, "ini terbaruuuuu")
+    fmt.Fprintf(w, "ini kodingan developerB")
 }
 
 func main() {
